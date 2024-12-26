@@ -1,1 +1,2 @@
 prometheuscommunity/postgres-exporter:master
+homeassistant/home_assistant
